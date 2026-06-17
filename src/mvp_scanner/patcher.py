@@ -1,1 +1,1 @@
-Improved Knowledge integration notes
+Enhanced Knowledge integration notes
