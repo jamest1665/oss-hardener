@@ -1,1 +1,1 @@
-UPDATED with Phase 3 direction
+Updated per-module next steps section
