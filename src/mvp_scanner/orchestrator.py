@@ -1,1 +1,1 @@
-More logging and status updates
+Added auto task persistence on completion

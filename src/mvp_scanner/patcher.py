@@ -1,1 +1,1 @@
-Improved Knowledge integration in structured patch
+Improved Knowledge context handling
