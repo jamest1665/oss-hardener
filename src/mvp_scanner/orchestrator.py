@@ -1,1 +1,1 @@
-Added logging to main hardening workflow
+Added more logging to hardening workflow

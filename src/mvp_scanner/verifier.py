@@ -1,1 +1,1 @@
-Added verify_sbom_integrity method
+Integrated verify_sbom_integrity into main verification
