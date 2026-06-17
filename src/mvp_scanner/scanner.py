@@ -1,1 +1,1 @@
-UPDATED with lockfile integration and logging import
+UPDATED with SBOM generator, logging, Verifier import

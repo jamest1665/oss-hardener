@@ -1,0 +1,1 @@
+NEW Verifier for zero-trust enforcement
