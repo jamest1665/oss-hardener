@@ -1,1 +1,1 @@
-UPDATED exports + version 0.2.0
+UPDATED exports and version
