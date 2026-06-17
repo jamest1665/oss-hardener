@@ -1,1 +1,1 @@
-Added generate_structured_patch method
+Enhanced generate_structured_patch with Knowledge note

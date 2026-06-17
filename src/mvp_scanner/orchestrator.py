@@ -1,1 +1,1 @@
-Added more logging to hardening workflow
+Added more logging and status handling
