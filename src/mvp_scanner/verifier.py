@@ -1,1 +1,1 @@
-NEW Verifier for zero-trust enforcement
+UPDATED with production sandbox method
