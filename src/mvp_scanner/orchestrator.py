@@ -1,1 +1,1 @@
-Added auto task persistence on completion
+Enhanced task completion and persistence

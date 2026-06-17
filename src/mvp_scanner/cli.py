@@ -1,1 +1,1 @@
-Polished JSON output for harden command
+Improved structured JSON output for harden
