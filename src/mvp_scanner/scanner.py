@@ -1,1 +1,1 @@
-Wired SBOM dependencies
+Improved SBOM usage in main scan flow

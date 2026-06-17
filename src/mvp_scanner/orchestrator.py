@@ -1,1 +1,1 @@
-Added save_task and load_task methods
+Added logging to main hardening workflow
