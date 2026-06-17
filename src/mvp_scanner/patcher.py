@@ -1,1 +1,1 @@
-Improved Knowledge context handling
+Improved Knowledge integration notes
