@@ -1,1 +1,1 @@
-NEW safe Patcher module
+Added generate_structured_patch method

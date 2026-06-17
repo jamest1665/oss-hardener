@@ -1,1 +1,1 @@
-UPDATED with harden command, Patcher/Orchestrator/Config integration
+Added --json output flag to scan command
