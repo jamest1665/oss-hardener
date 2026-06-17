@@ -1,1 +1,1 @@
-Enhanced generate_structured_patch with Knowledge note
+Improved Knowledge integration in structured patch
