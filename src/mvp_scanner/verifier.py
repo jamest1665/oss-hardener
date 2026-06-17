@@ -1,1 +1,1 @@
-Refined sandbox method
+Added verify_sbom_integrity method
