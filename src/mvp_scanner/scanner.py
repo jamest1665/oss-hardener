@@ -1,1 +1,1 @@
-UPDATED SBOM with basic dependency relationships
+Added _build_sbom_dependencies
