@@ -1,1 +1,1 @@
-UPDATED with SBOM generator, logging, Verifier import
+UPDATED SBOM with basic dependency relationships
