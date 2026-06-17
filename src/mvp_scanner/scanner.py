@@ -1,1 +1,1 @@
-Added _build_sbom_dependencies
+Wired SBOM dependencies

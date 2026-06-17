@@ -1,1 +1,1 @@
-Added --json output flag to scan command
+Made --json flag work in scan command
