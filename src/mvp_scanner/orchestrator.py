@@ -1,1 +1,1 @@
-Added better error handling
+Improved error handling and logging

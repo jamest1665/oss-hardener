@@ -1,1 +1,1 @@
-Improved Knowledge integration
+Added knowledge parameter and better RAG support
